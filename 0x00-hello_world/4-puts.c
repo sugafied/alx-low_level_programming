@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char cisfun[] = ""Programming is like building a multilingual puzzle";
+	char cisfun[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(cisfun);
 
